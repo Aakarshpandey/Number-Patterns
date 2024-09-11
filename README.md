@@ -1,18 +1,16 @@
 Pattern Printing in Java
-This repository contains a Java class demo that includes methods to print various patterns using numbers. The patterns range from simple sequences to more complex structures. Each method demonstrates different ways of arranging numbers and spaces to create visually distinct patterns.
+This repository provides a Java class demo that contains methods to print various numeric patterns.
 
-Overview
-The demo class contains the following methods:
-
-Pattern1: Prints a descending sequence of numbers.
-Pattern2: Prints an ascending sequence of numbers.
-Pattern3: Prints a right-aligned ascending sequence of numbers.
-Pattern4: Prints a right-aligned ascending sequence of numbers with spaces between them.
-Pattern5: Prints an inverted right-aligned ascending sequence of numbers with spaces.
-Pattern6: Prints an inverted right-aligned sequence of numbers without spaces.
-Pattern7: Prints a diamond pattern of numbers.
-Pattern8: Prints a diamond pattern of numbers with right alignment.
-Pattern9: Prints a diamond pattern of numbers with spaces between them.
-Pattern10: Prints a diamond pattern with spaces and decreasing numbers in the second half.
-Pattern11: Prints a combination of ascending and descending number sequences.
-Pattern12: Prints a symmetrical pattern of ascending and descending number sequences.
+Methods
+Pattern1: Descending sequence
+Pattern2: Ascending sequence
+Pattern3: Right-aligned ascending sequence
+Pattern4: Right-aligned ascending sequence with spaces
+Pattern5: Inverted right-aligned ascending sequence with spaces
+Pattern6: Inverted right-aligned sequence
+Pattern7: Diamond pattern
+Pattern8: Right-aligned diamond pattern
+Pattern9: Diamond pattern with spaces
+Pattern10: Diamond pattern with spaces and decreasing numbers
+Pattern11: Combined ascending and descending sequences
+Pattern12: Symmetrical ascending and descending sequences
