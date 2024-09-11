@@ -1,4 +1,4 @@
-#Pattern Printing in Java
+Pattern Printing in Java
 This repository provides a Java class demo that contains methods to print various numeric patterns.
 
 Methods
